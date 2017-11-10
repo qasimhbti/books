@@ -12,9 +12,10 @@ do
   if [[ $dir != $last ]]
   then
     echo
-    title=$(echo ${dir:2}|tr a-z A-Z)
+    first=$(echo ${dir:2:3}|tr a-z A-Z)
+    rest=$(echo ${dir:3})
     # echo $title
-    echo "# ${title}"
+    echo "## ${first}${rest}"
     echo
     last=$dir
   fi

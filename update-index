@@ -23,7 +23,7 @@ do
   name=${path}
   title="${name//$dir\//}"
   len="${#title}"
-  max="$(( $len - 5))"
+  max="$(( $len - 4))"
   link="[${title:0:$max}](/${path:2})"
   echo "- $link"
 done

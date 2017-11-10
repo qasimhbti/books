@@ -14,15 +14,15 @@ Some books uploaded organised by topic
 
 - [Seven Databases](databases/Seven%20Databases.pdf)
 
-### Databases/cassandra
+### Databases / cassandra
 
 - [The Definitive Guide](databases/cassandra/The%20Definitive%20Guide.pdf)
 
-### Databases/graphs
+### Databases / graphs
 
 - [Graph Databases](databases/graphs/Graph%20Databases.pdf)
 
-### Databases/mysql
+### Databases / mysql
 
 - [High Availability MySQL Cookbook](databases/mysql/High%20Availability%20MySQL%20Cookbook.pdf)
 - [High Performance MySQL](databases/mysql/High%20Performance%20MySQL.pdf)
@@ -30,19 +30,19 @@ Some books uploaded organised by topic
 - [MySQL Clustering](databases/mysql/MySQL%20Clustering.pdf)
 - [Understanding MySQL Internals](databases/mysql/Understanding%20MySQL%20Internals.pdf)
 
-### Databases/postgresql
+### Databases / postgresql
 
 - [PostgreSQL Up and Running](databases/postgresql/PostgreSQL%20Up%20and%20Running.pdf)
 
-### Databases/redis
+### Databases / redis
 
 - [The Little Redis Book](databases/redis/The%20Little%20Redis%20Book.pdf)
 
-### Databases/sql
+### Databases / sql
 
 - [SQLPerformanceExplained](databases/sql/SQLPerformanceExplained.pdf)
 
-### Databases/sqlite
+### Databases / sqlite
 
 - [The Definitive Guide to SQLite](databases/sqlite/The%20Definitive%20Guide%20to%20SQLite.pdf)
 
@@ -67,7 +67,7 @@ Some books uploaded organised by topic
 
 - [Linux Network Administrators Guide](networking/Linux%20Network%20Administrators%20Guide.pdf)
 
-### Networking/TCP Illustrated
+### Networking / TCP Illustrated
 
 - [TCP Illustrated Vol 1](networking/TCP%20Illustrated/TCP%20Illustrated%20Vol%201.pdf)
 - [TCP Illustrated Vol 2](networking/TCP%20Illustrated/TCP%20Illustrated%20Vol%202.pdf)
@@ -83,7 +83,7 @@ Some books uploaded organised by topic
 - [Introduction to Algorithms](programming/Introduction%20to%20Algorithms.pdf)
 - [The Clean Coder](programming/The%20Clean%20Coder.pdf)
 
-### Queues/kafka
+### Queues / kafka
 
 - [Kafka The Definitive Guide](queues/kafka/Kafka%20The%20Definitive%20Guide.pdf)
 

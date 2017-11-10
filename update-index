@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -eu
+
+echo "# Books"
+echo "Some books uploaded organised by topic"
+echo
+
+last=""
+find . -type f -name "*.pdf"|sort|while read path
+do
+  dir=$(dirname "${path}")
+  if [[ $dir != $last ]]
+  then
+    echo
+    title=$(echo ${dir:2}|tr a-z A-Z)
+    # echo $title
+    echo "# ${title}"
+    echo
+    last=$dir
+  fi
+  name=${path}
+  echo "- ${name//$dir\//}"
+done

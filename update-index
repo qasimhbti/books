@@ -12,13 +12,18 @@ do
   if [[ $dir != $last ]]
   then
     echo
-    first=$(echo ${dir:2:3}|tr a-z A-Z)
-    rest=$(echo ${dir:3})
+    name=${dir:2}
+    first=$(echo ${name:0:1}|tr a-z A-Z)
+    rest=$(echo ${name:1})
     # echo $title
     echo "## ${first}${rest}"
     echo
     last=$dir
   fi
   name=${path}
-  echo "- ${name//$dir\//}"
+  title="${name//$dir\//}"
+  len="${#title}"
+  max="$(( $len - 5))"
+  link="[${title:0:$max}](/${path:2})"
+  echo "- $link"
 done

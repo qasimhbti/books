@@ -2,102 +2,102 @@
 Some books uploaded organised by topic
 
 
-# CACHES
+## Caches
 
-- The Varnish Book.pdf
+- [The Varnish Boo](/caches/The Varnish Book.pdf)
 
-# DATA
+## Data
 
-- Hadoop Essentials.pdf
+- [Hadoop Essential](/data/Hadoop Essentials.pdf)
 
-# DATABASES
+## Databases
 
-- Seven Databases.pdf
+- [Seven Database](/databases/Seven Databases.pdf)
 
-# DATABASES/CASSANDRA
+## Databases/cassandra
 
-- The Definitive Guide.pdf
+- [The Definitive Guid](/databases/cassandra/The Definitive Guide.pdf)
 
-# DATABASES/GRAPHS
+## Databases/graphs
 
-- Graph Databases.pdf
+- [Graph Database](/databases/graphs/Graph Databases.pdf)
 
-# DATABASES/MYSQL
+## Databases/mysql
 
-- High Availability MySQL Cookbook.pdf
-- High Performance MySQL.pdf
-- MySQL Administrator's Bible.pdf
-- MySQL Clustering.pdf
-- Understanding MySQL Internals.pdf
+- [High Availability MySQL Cookboo](/databases/mysql/High Availability MySQL Cookbook.pdf)
+- [High Performance MySQ](/databases/mysql/High Performance MySQL.pdf)
+- [MySQL Administrator's Bibl](/databases/mysql/MySQL Administrator's Bible.pdf)
+- [MySQL Clusterin](/databases/mysql/MySQL Clustering.pdf)
+- [Understanding MySQL Internal](/databases/mysql/Understanding MySQL Internals.pdf)
 
-# DATABASES/POSTGRESQL
+## Databases/postgresql
 
-- PostgreSQL Up and Running.pdf
+- [PostgreSQL Up and Runnin](/databases/postgresql/PostgreSQL Up and Running.pdf)
 
-# DATABASES/REDIS
+## Databases/redis
 
-- The Little Redis Book.pdf
+- [The Little Redis Boo](/databases/redis/The Little Redis Book.pdf)
 
-# DATABASES/SQL
+## Databases/sql
 
-- SQLPerformanceExplained.pdf
+- [SQLPerformanceExplaine](/databases/sql/SQLPerformanceExplained.pdf)
 
-# DATABASES/SQLITE
+## Databases/sqlite
 
-- The Definitive Guide to SQLite.pdf
+- [The Definitive Guide to SQLit](/databases/sqlite/The Definitive Guide to SQLite.pdf)
 
-# DEVOPS
+## Devops
 
-- Ansible for DevOps.pdf
+- [Ansible for DevOp](/devops/Ansible for DevOps.pdf)
 
-# EDITORS
+## Editors
 
-- Mastering Emacs.pdf
+- [Mastering Emac](/editors/Mastering Emacs.pdf)
 
-# FRAMEWORKS
+## Frameworks
 
-- Spring Microservices in Action.pdf
+- [Spring Microservices in Actio](/frameworks/Spring Microservices in Action.pdf)
 
-# LINUX
+## Linux
 
-- Pro Linux System Administration.pdf
-- Pro Linux.pdf
+- [Pro Linux System Administratio](/linux/Pro Linux System Administration.pdf)
+- [Pro Linu](/linux/Pro Linux.pdf)
 
-# NETWORKING
+## Networking
 
-- Linux Network Administrators Guide.pdf
+- [Linux Network Administrators Guid](/networking/Linux Network Administrators Guide.pdf)
 
-# NETWORKING/TCP ILLUSTRATED
+## Networking/TCP Illustrated
 
-- TCP Illustrated Vol 1.pdf
-- TCP Illustrated Vol 2.pdf
-- TCP Illustrated Vol 3.pdf
+- [TCP Illustrated Vol ](/networking/TCP Illustrated/TCP Illustrated Vol 1.pdf)
+- [TCP Illustrated Vol ](/networking/TCP Illustrated/TCP Illustrated Vol 2.pdf)
+- [TCP Illustrated Vol ](/networking/TCP Illustrated/TCP Illustrated Vol 3.pdf)
 
-# NETWORKING
+## Networking
 
-- TCP:IP Administration.pdf
-- Teach Yourself TCP:IP.pdf
+- [TCP:IP Administratio](/networking/TCP:IP Administration.pdf)
+- [Teach Yourself TCP:I](/networking/Teach Yourself TCP:IP.pdf)
 
-# PROGRAMMING
+## Programming
 
-- Introduction to Algorithms.pdf
-- The Clean Coder.pdf
+- [Introduction to Algorithm](/programming/Introduction to Algorithms.pdf)
+- [The Clean Code](/programming/The Clean Coder.pdf)
 
-# QUEUES/KAFKA
+## Queues/kafka
 
-- Kafka The Definitive Guide.pdf
+- [Kafka The Definitive Guid](/queues/kafka/Kafka The Definitive Guide.pdf)
 
-# SCALABILITY
+## Scalability
 
-- Scalability Rules.pdf
-- Scalable Architectures.pdf
-- Scalable Web Sites.pdf
+- [Scalability Rule](/scalability/Scalability Rules.pdf)
+- [Scalable Architecture](/scalability/Scalable Architectures.pdf)
+- [Scalable Web Site](/scalability/Scalable Web Sites.pdf)
 
-# SECURITY
+## Security
 
-- 9 Lethal Linux Commands.pdf
-- Hacking Linux Exposed.pdf
-- Hacking Wireless Networks For Dummies.pdf
-- Linux 101 Hacks.pdf
-- Linux Firewalls.pdf
-- The Databases Handbook.pdf
+- [9 Lethal Linux Command](/security/9 Lethal Linux Commands.pdf)
+- [Hacking Linux Expose](/security/Hacking Linux Exposed.pdf)
+- [Hacking Wireless Networks For Dummie](/security/Hacking Wireless Networks For Dummies.pdf)
+- [Linux 101 Hack](/security/Linux 101 Hacks.pdf)
+- [Linux Firewall](/security/Linux Firewalls.pdf)
+- [The Databases Handboo](/security/The Databases Handbook.pdf)

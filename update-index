@@ -16,7 +16,7 @@ do
     first=$(echo ${name:0:1}|tr a-z A-Z)
     rest=$(echo ${name:1})
     # echo $title
-    echo "## ${first}${rest}"
+    echo "### ${first}${rest}"
     echo
     last=$dir
   fi

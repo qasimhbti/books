@@ -104,3 +104,7 @@ Some books organised by topic.
 - [Linux 101 Hacks](security/Linux%20101%20Hacks.pdf)
 - [Linux Firewalls](security/Linux%20Firewalls.pdf)
 - [The Databases Handbook](security/The%20Databases%20Handbook.pdf)
+
+### Texts
+
+- [English as She is Spoke](texts/English%20as%20She%20is%20Spoke.pdf)

@@ -1,5 +1,5 @@
 # Books
-Some books uploaded organised by topic
+Some books organised by topic.
 
 
 ### Caches
@@ -13,7 +13,7 @@ Some books uploaded organised by topic
 ### Databases
 
 - [SQL Performance Explained](databases/SQL%20Performance%20Explained.pdf)
-- [Seven Databases](databases/Seven%20Databases.pdf)
+- [Seven Databases in Seven Weeks](databases/Seven%20Databases%20in%20Seven%20Weeks.pdf)
 
 ### Databases / cassandra
 

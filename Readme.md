@@ -38,6 +38,7 @@ Some books organised by topic.
 
 ### Databases / postgresql
 
+- [Mastering PostgreSQL Sample](databases/postgresql/Mastering%20PostgreSQL%20Sample.pdf)
 - [PostgreSQL Up and Running](databases/postgresql/PostgreSQL%20Up%20and%20Running.pdf)
 
 ### Databases / redis

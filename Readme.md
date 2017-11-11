@@ -12,6 +12,7 @@ Some books uploaded organised by topic
 
 ### Databases
 
+- [SQL Performance Explained](databases/SQL%20Performance%20Explained.pdf)
 - [Seven Databases](databases/Seven%20Databases.pdf)
 
 ### Databases / cassandra
@@ -37,10 +38,6 @@ Some books uploaded organised by topic
 ### Databases / redis
 
 - [The Little Redis Book](databases/redis/The%20Little%20Redis%20Book.pdf)
-
-### Databases / sql
-
-- [SQLPerformanceExplained](databases/sql/SQLPerformanceExplained.pdf)
 
 ### Databases / sqlite
 

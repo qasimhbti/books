@@ -1,6 +1,6 @@
 # Books
 Some books organised by topic.
-[<img src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](http://google.com.au/)
+[<img height="16" width="16" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](http://google.com.au/)
 
 
 ### Caches

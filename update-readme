@@ -26,6 +26,7 @@ do
   max="$(( $len - 4))"
   link="${path:2}"
   link="${link// /%20}"
+  raw="https://github.com/jpedro/books/raw/master/$link"
 
-  echo "- $image($link)&nbsp; [${title:0:$max}]($link)"
+  echo "- $image($raw)&nbsp; [${title:0:$max}]($link)"
 done

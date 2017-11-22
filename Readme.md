@@ -66,6 +66,10 @@ Some books organised by topic.
 - [Pro Linux System Administration](linux/Pro%20Linux%20System%20Administration.pdf)
 - [Pro Linux](linux/Pro%20Linux.pdf)
 
+### Monitoring
+
+- [Automated Root Cause Analysis](monitoring/Automated%20Root%20Cause%20Analysis.pdf)
+
 ### Networking
 
 - [Linux Network Administrators Guide](networking/Linux%20Network%20Administrators%20Guide.pdf)

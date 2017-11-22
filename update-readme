@@ -3,9 +3,9 @@ set -eu
 
 echo "# Books"
 echo "Some books organised by topic."
-echo '[<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](http://google.com.au/)'
 echo
 
+image='[<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">]'
 last=""
 find . -type f -name "*.pdf"|sort|while read path
 do
@@ -27,5 +27,5 @@ do
   link="${path:2}"
   link="${link// /%20}"
 
-  echo "- [${title:0:$max}]($link)"
+  echo "- [${title:0:$max}]($link) $image($link)"
 done

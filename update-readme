@@ -27,5 +27,5 @@ do
   link="${path:2}"
   link="${link// /%20}"
 
-  echo "- [${title:0:$max}]($link) $image($link)"
+  echo "- $image($link) [${title:0:$max}]($link)"
 done

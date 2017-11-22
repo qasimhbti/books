@@ -3,6 +3,7 @@ set -eu
 
 echo "# Books"
 echo "Some books organised by topic."
+echo '[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)'
 echo
 
 last=""

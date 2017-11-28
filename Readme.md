@@ -61,6 +61,13 @@ Some books organised by topic.
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/frameworks/Spring%20Microservices%20in%20Action.pdf)&nbsp; [Spring Microservices in Action](frameworks/Spring%20Microservices%20in%20Action.pdf)
 
+### Languages / java
+
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/languages/java/Java%20Generics.pdf)&nbsp; [Java Generics](languages/java/Java%20Generics.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/languages/java/Java%20Message%20Service.pdf)&nbsp; [Java Message Service](languages/java/Java%20Message%20Service.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/languages/java/Java%20Pocket%20Guide.pdf)&nbsp; [Java Pocket Guide](languages/java/Java%20Pocket%20Guide.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/languages/java/Java%20in%20a%20Nutshell.pdf)&nbsp; [Java in a Nutshell](languages/java/Java%20in%20a%20Nutshell.pdf)
+
 ### Linux
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/linux/Pro%20Linux%20System%20Administration.pdf)&nbsp; [Pro Linux System Administration](linux/Pro%20Linux%20System%20Administration.pdf)

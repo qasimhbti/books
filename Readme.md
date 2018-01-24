@@ -96,6 +96,10 @@ Some books organised by topic.
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/TCP:IP%20Administration.pdf)&nbsp; [TCP:IP Administration](networking/TCP:IP%20Administration.pdf)
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/Teach%20Yourself%20TCP:IP.pdf)&nbsp; [Teach Yourself TCP:IP](networking/Teach%20Yourself%20TCP:IP.pdf)
 
+### Operations
+
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/operations/Site%20Reliability%20Engineering.pdf)&nbsp; [Site Reliability Engineering](operations/Site%20Reliability%20Engineering.pdf)
+
 ### Programming
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/programming/Introduction%20to%20Algorithms.pdf)&nbsp; [Introduction to Algorithms](programming/Introduction%20to%20Algorithms.pdf)

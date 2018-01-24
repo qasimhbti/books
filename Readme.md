@@ -127,3 +127,4 @@ Some books organised by topic.
 ### Texts
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/texts/English%20as%20She%20is%20Spoke.pdf)&nbsp; [English as She is Spoke](texts/English%20as%20She%20is%20Spoke.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/texts/Fire%20and%20Fury.pdf)&nbsp; [Fire and Fury](texts/Fire%20and%20Fury.pdf)

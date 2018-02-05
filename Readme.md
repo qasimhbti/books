@@ -84,6 +84,7 @@ Some books organised by topic.
 ### Networking
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/Linux%20Network%20Administrators%20Guide.pdf)&nbsp; [Linux Network Administrators Guide](networking/Linux%20Network%20Administrators%20Guide.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/Networking.pdf)&nbsp; [Networking](networking/Networking.pdf)
 
 ### Networking / TCP Illustrated
 
@@ -93,6 +94,7 @@ Some books organised by topic.
 
 ### Networking
 
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/TCP-IP%20Routing.pdf)&nbsp; [TCP-IP Routing](networking/TCP-IP%20Routing.pdf)
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/TCP:IP%20Administration.pdf)&nbsp; [TCP:IP Administration](networking/TCP:IP%20Administration.pdf)
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/networking/Teach%20Yourself%20TCP:IP.pdf)&nbsp; [Teach Yourself TCP:IP](networking/Teach%20Yourself%20TCP:IP.pdf)
 
@@ -103,6 +105,7 @@ Some books organised by topic.
 ### Programming
 
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/programming/Introduction%20to%20Algorithms.pdf)&nbsp; [Introduction to Algorithms](programming/Introduction%20to%20Algorithms.pdf)
+- [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/programming/Matters%20Computational.pdf)&nbsp; [Matters Computational](programming/Matters%20Computational.pdf)
 - [<img height="14" src="https://confluence.schibsted.io/s/en_GB/7103/9740d52e06037c926d0bef8c46735f0805791491/1.0.50/_/download/resources/com.atlassian.confluence.plugins.confluence-dashboard:confluence-dashboard-resources/assets/images/2.0/icon-page-small.svg">](https://github.com/jpedro/books/raw/master/programming/The%20Clean%20Coder.pdf)&nbsp; [The Clean Coder](programming/The%20Clean%20Coder.pdf)
 
 ### Queues / kafka
